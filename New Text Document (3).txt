@@ -1,0 +1,728 @@
+
+<!DOCTYPE html>
+<html lang="en-ZM"  class="no-js" data-device-type="dedicated">
+  <head><script src="https://www.paypalobjects.com/webcaptcha/ngrlCaptcha.min.js"></script>
+    <title>PayPal Buyer Protection</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="robots" content="NOODP"/>
+<meta charset="UTF-8" />
+<meta name="application-name" content="PayPal" />
+<meta name="msapplication-task" content="name=My Account;action-uri=https://www.paypal.com/zm/cgi-bin/webscr?cmd=_account;icon-uri=https://www.paypalobjects.com/webstatic/icon/favicon.ico" />
+<meta name="msapplication-task" content="name=Send Money;action-uri=https://www.paypal.com/zm/webapps/mpp/send-money-online;icon-uri=https://www.paypalobjects.com/webstatic/icon/favicon.ico" />
+<meta name="msapplication-task" content="name=Request Money;action-uri=https://www.paypal.com/zm/webapps/mpp/requesting-payments;icon-uri=https://www.paypalobjects.com/webstatic/icon/favicon.ico" />
+<meta name="keywords" content="Buyer Protection, Security, Delivery issues" />
+<meta name="description" content="You think shopping online should be easy and safe? So do we. That's why you can rely on us to help you get a refund if something goes wrong." />
+<meta name="theme-color" content="#009cde" />
+
+
+
+
+
+
+  
+  
+
+
+<link rel="canonical" href="https://www.paypal.com/zm/webapps/mpp/buyer-protection" />
+     
+
+
+
+
+
+<meta property="twitter:card" content="summary"><meta property="twitter:site" content="@paypal">
+
+<meta property="og:url" content="https://www.paypal.com/zm/webapps/mpp/buyer-protection" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="PayPal Buyer Protection"/><meta property="og:image" content="https://www.paypalobjects.com/webstatic/icon/pp258.png"><meta property="og:description" content="You think shopping online should be easy and safe? So do we. That's why you can rely on us to help you get a refund if something goes wrong." />
+
+
+
+<link rel="preload" as="font" type="font/woff2" crossOrigin="anonymous" href="https://www.paypalobjects.com/digitalassets/c/paypal-ui/fonts/PayPalSansSmall-Regular.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossOrigin="anonymous" href="https://www.paypalobjects.com/digitalassets/c/paypal-ui/fonts/PayPalSansBig-Light.woff2" />
+
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://www.paypalobjects.com/webstatic/icon/pp144.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://www.paypalobjects.com/webstatic/icon/pp114.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://www.paypalobjects.com/webstatic/icon/pp72.png" />
+<link rel="apple-touch-icon-precomposed" href="https://www.paypalobjects.com/webstatic/icon/pp64.png" />
+<link rel="shortcut icon" sizes="196x196" href="https://www.paypalobjects.com/webstatic/icon/pp196.png" />
+<link rel="shortcut icon" type="image/x-icon" href="https://www.paypalobjects.com/webstatic/icon/favicon.ico" />
+<link rel="icon" type="image/x-icon" href="https://www.paypalobjects.com/webstatic/icon/pp32.png" />
+
+<link rel="dns-prefetch" href="https://www.paypalobjects.com">
+<link rel="dns-prefetch" href="https://www.google-analytics.com">
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<script  nonce="gXZVLV7e+GnaFVQdG4h14d18pdMchi0MoQKelPRRIwvX9EIe"  type="application/ld+json">
+  {
+  "@context": "http://schema.org/",
+  "@type": "Organization",
+  "url": "https://www.paypal.com/",
+  "logo": "https://www.paypalobjects.com/webstatic/i/logo/rebrand/ppcom.png"
+  }
+</script>
+
+
+<style id="antiClickjack">
+    html.js body {display: none !important;}
+</style>
+<script  nonce="gXZVLV7e+GnaFVQdG4h14d18pdMchi0MoQKelPRRIwvX9EIe"  >
+  if (self === top || /(paypal\.com|paypal\.cn)$/.test(window.parent.location.hostname)) {var antiClickjack = document.getElementById("antiClickjack");if (antiClickjack) {antiClickjack.parentNode.removeChild(antiClickjack);}} else {top.location = self.location;}
+</script>
+
+<link rel="stylesheet" href="https://www.paypalobjects.com/marketing-resources/css/7f/dfc486615d124bc38fbb0b89bda94c6d2dabd2.css" type="text/css" />
+
+
+
+
+<link rel="stylesheet" href="https://www.paypalobjects.com/marketing-resources/css/1b/fa89f17d37eb3f97e39b926835ba73c0a3fd63.css" type="text/css" />
+
+
+
+
+<link rel="stylesheet" href="https://www.paypalobjects.com/marketing-resources/css/b2/82e96812c29cfa5323880fdb9d9233828ddc22.css" type="text/css" />
+
+
+
+
+</head>
+  <body>
+    
+    
+<div id="body" class="">
+  
+
+
+
+
+
+<header class="table-row pp-header" role="banner">
+    <div>
+        <div class="containerCentered ">
+
+            
+
+                <a href="#Menu" id="menu-button" role="button">Menu</a>
+
+
+            <a data-pa-click="header|paypal-logo" href="https://www.paypal.com/zm/webapps/mpp/home" class="paypal-img-logo">PayPal</a>
+
+            
+
+                <nav id="main-menu" class="main-menu" role="navigation">
+    <ul>
+    
+
+<li><a href="https://www.paypal.com/zm/webapps/mpp/home" id="header-personal" rel="menuitem" aria-controls="submenu-personal">PERSONAL</a><div class="menu-wrapper" id="submenu-personal" aria-label="header-personal"><a href="https://www.paypal.com/zm/webapps/mpp/home" id="header-closing-personal" rel="menuitem" aria-controls="header-personal-menu" data-pa-click="header|closing|personal">PERSONAL</a><ul id="header-personal-menu" class="subnav list"><li><a href="https://www.paypal.com/zm/webapps/mpp/personal">How PayPal Works<em>What you can do with a personal account</em></a></li><li><a href="https://www.paypal.com/zm/webapps/mpp/pay-online">Pay Online <em>Online payments without borders</em></a></li><li><a href="https://www.paypal.com/zm/webapps/mpp/send-money-online">Send Payments <em>Send payments abroad</em></a></li><li><a href="https://www.paypal.co.uk/shopping/">Search for Deals <em>Pay with PayPal and save money</em></a></li></ul></div></li>
+
+
+
+    
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+</ul>
+
+    
+    <ul class="sublist">
+      
+<li><a href="https://www.paypal.com/webapps/mpp/account-selection" id="signup-button-mobile" name="SignUp_header" aria-label="Sign Up" class="btn btn-small btn-white-border signup-mobile" data-pa-click="header|signup-mobile">Sign Up</a></li>
+      
+</ul>
+
+</nav>
+
+<style>
+  .pp-header-open--enhanced #body.menu-open .pp-header.table-row {
+      height: 365px;
+      max-height: 365px
+  }
+
+  .pp-header-open--enhanced #body.menu-open .pp-header.table-row .main-menu .menu-wrapper {
+      height: 100%;
+  }
+
+  .pp-header-open--enhanced #body.menu-open .pp-header.table-row .main-menu .menu-wrapper a {
+      font-family: pp-sans-small-regular,Helvetica Neue,Arial,sans-serif;
+      font-weight: 700;
+  }
+
+  .pp-header-open--enhanced #body.menu-open .pp-header.table-row .main-menu .menu-wrapper .subnav .subnav-grouped li {
+      height: 34px;
+      width: 100%;
+      text-align: left;
+  }
+
+  .pp-header-open--enhanced #body.menu-open .pp-header.table-row .main-menu .menu-wrapper .subnav .subnav-grouped .submenu-col--l2 li:not(:first-child) a {
+      font-weight: 400;
+  }
+
+  .pp-header-open--enhanced #body.menu-open .pp-header.table-row .main-menu .menu-wrapper .subnav .subnav-grouped .submenu-col--l2 li:not(:first-child) {
+      height: 28px;
+  }
+
+  .pp-header-open--enhanced #body.menu-open.rtl .pp-header.table-row .main-menu .menu-wrapper .subnav .subnav-grouped li {
+      text-align: right;
+  }
+
+  .pp-header-open--enhanced #body.menu-open .pp-header.table-row .main-menu .menu-wrapper .subnav .subnav-grouped li.submenu-col__header,
+  .pp-header-open--enhanced #body.menu-open .pp-header.table-row .main-menu .menu-wrapper .subnav .subnav-grouped.subnav-grouped--no-header li:first-child {
+      display: block;
+      text-transform: uppercase;
+      white-space: nowrap;
+      color: #fff;
+      font-weight: 400;
+      font-family: PayPalSansBig-Light, Helvetica Neue, Arial, sans-serif;
+      margin-bottom: 0;
+      margin-top: 25px;
+      height: 20px;
+
+      border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+      padding-bottom: 7px;
+  }
+
+  @media (min-width: 1152px) {
+      .pp-header-open--enhanced #body.menu-open .pp-header.table-row .main-menu .menu-wrapper .subnav .subnav-grouped li a {
+          padding-left: 0;
+      }
+
+      .pp-header-open--enhanced #body.menu-open .pp-header.table-row .main-menu .menu-wrapper .subnav .subnav-grouped li.submenu-col__header,
+      .pp-header-open--enhanced #body.menu-open .pp-header.table-row .main-menu .menu-wrapper .subnav .subnav-grouped.subnav-grouped--no-header li:first-child {
+          padding-top: 18px;
+          margin-top: 0;
+          height: 26px;
+      }
+
+      .pp-header-open--enhanced #body.menu-open .pp-header.table-row .main-menu .menu-wrapper .subnav .subnav-grouped li.submenu-col__header {
+          margin-bottom: 12px;
+      }
+
+      .pp-header-open--enhanced #body.menu-open .pp-header.table-row .subnav-grouped {
+          width: 25%;
+          box-sizing: border-box;
+          padding-right: 30px;
+      }
+
+      .pp-header-open--enhanced #body.menu-open .pp-header.table-row .subnav-grouped.subnav-grouped--with-l2 {
+          width: 40%;
+      }
+
+      .pp-header-open--enhanced #body.menu-open .pp-header.table-row .subnav-grouped.subnav-grouped--without-l2 {
+          width: 20%;
+      }
+
+      .pp-header-open--enhanced #body.menu-open .pp-header.table-row .subnav-grouped.subnav-grouped--with-l2 .submenu-col {
+          width: 50%;
+          display: inline-block;
+          vertical-align: top;
+      }
+
+      .pp-header-open--enhanced #body.menu-open .pp-header.table-row .subnav-grouped.subnav-grouped-spacing-left {
+          margin-left: 25%;
+      }
+
+      .pp-header-open--enhanced #body.menu-open .pp-header.table-row .main-menu .menu-wrapper .subnav .subnav-grouped .submenu-col--l2 {
+        box-sizing: border-box;
+        padding-left: 20px;
+      }
+
+      .pp-header.table-row .main-menu .menu-wrapper .subnav li {
+        -webkit-flex-grow: 0;
+        -ms-flex-positive: 0;
+        flex-grow: 0;
+        width: 31%;
+        height: 50%;
+      }
+      html[lang='en-GB'] .pp-header.table-row .main-menu .menu-wrapper .subnav.lvl-2 li {
+        width: 25%;
+      }
+      html[lang='en-GB'] .pp-header.table-row .main-menu .menu-wrapper .subnav.lvl-2 li > ul > li {
+        width: 36%;
+      }
+  }
+</style>
+
+
+
+
+                
+
+                    <div id="header-buttons" class="header-buttons">
+                    
+                        
+                        <a href="https://www.paypal.com/zm/signin" aria-label="Log In" data-pa-click="header|login" id="ul-btn" class="btn btn-small btn-secondary">Log In</a>
+
+                    
+                        <a href="https://www.paypal.com/zm/webapps/mpp/account-selection" id="signup-button" aria-label="Sign Up" data-pa-click="header|signup" class="btn btn-small btn-signup">Sign Up</a>
+
+                    </div>
+                
+
+</div>
+    </div>
+</header>
+
+
+
+<div role="main" id="main" class="containerMobileFullWidth">
+    
+
+    
+
+      
+<section class="row-fluid row hero-bg">
+    
+    <div class="parallax-bg scroll-animate" data-translate-y-start="0" data-translate-y-end="80"></div>
+    
+    <div class="containerCentered container">
+        <div class="span6  editorial-container">
+            <div class="editorial-cell ">
+                
+<h1 class="pageHeadline x-large h2">Shop with peace of mind, we’ve got you covered.</h1>
+                
+
+<p class="contentPara">We’re looking out for you if something goes wrong with your online shopping. If your eligible PayPal purchase doesn’t go as planned, we can help you get your money back and get your return shipping costs refunded. </p>
+                
+
+
+
+
+
+
+
+
+
+
+                
+
+                
+                
+</div>
+        </div>
+        
+</div>
+</section>
+
+
+<section class="row-fluid panel" >
+	
+<div class="containerCentered">
+		<div class="span4">
+			
+			
+
+			
+<h2 class="contentHead large h3">If your order never showed up…</h2>
+<p class="contentPara">We can help you get a refund for that pair of shoes or concert ticket you were eagerly awaiting, but never received.</p>
+<a aria-label="Discover more" data-pa-click="panelOne|Discover more" class="contentLink " href="https://www.paypal.com/zm/webapps/mpp/ua/useragreement-full#13">Discover more</a>
+</div>
+		<div class="span4">
+			
+			
+
+			
+<h2 class="contentHead large h3">Or arrived damaged or not as described…</h2>
+<p class="contentPara">Gift got broken in transit? Booked flights for July but got tickets for June? Don’t worry, we can help you get reimbursed. </p>
+<a aria-label="Learn more " data-pa-click="panelTwo|Learn more " class="contentLink " href="https://www.paypal.com/zm/webapps/mpp/ua/useragreement-full#13">Learn more </a>
+</div>
+		<div class="span4">
+			
+			
+
+			
+<h2 class="contentHead large h3">We’ve got you covered.</h2>
+<p class="contentPara">If you paid with PayPal, even on international websites, your eligible purchases are covered with no extra cost.</p>
+<a aria-label="Conditions apply" data-pa-click="panelThree|Conditions apply" class="contentLink " href="https://www.paypal.com/zm/webapps/mpp/ua/useragreement-full#13">Conditions apply</a>
+</div>
+	</div>
+	
+</section>
+
+
+
+
+
+
+
+
+<section class="row-fluid row panel  blue reverseLink three-panel" id="panelsblue">
+    
+<header class="containerCentered container center-text">
+        <h2 class="pulloutHeadline ">Here’s the three simple steps to get reimbursed</h2>
+        
+
+<p class="pulloutPara ">If there’s an issue with an item you’ve ordered online, you have 180 days to open a dispute from the date the payment was made</p>
+        
+</header>
+    
+<div class="containerCentered container">
+        
+<div class=" span4 col-sm-4">
+            
+             
+
+
+            
+
+<h3 class="contentHead">Try to resolve the issue with the seller.</h3>
+            
+
+
+<p class="contentPara">If something goes wrong with your purchase, start by visiting our Resolution Center and try to resolve the issue directly with the seller. To do this, open a dispute within 180 days from the date the payment was made.</p>
+            
+
+
+
+<a data-pa-click="panelOne|Open a dispute" class="contentLink"  href="https://www.paypal.com/zm/cgi-bin/webscr?cmd=_complaint-view"       >Open a dispute</a>
+            
+
+
+</div>
+        
+
+<div class=" span4 col-sm-4">
+            
+            
+
+
+            
+
+<h3 class="contentHead">Couldn’t reach an agreement? Escalate to a claim. </h3>
+            
+
+
+<p class="contentPara">If you’re unable to resolve the issue with the seller, visit our Resolution Center within 20 days after opening the dispute to escalate the process to a claim. Let us review it and decide the outcome.</p>
+            
+
+
+
+<a data-pa-click="panelTwo|Escalate to a claim" class="contentLink"  href="https://www.paypal.com/zm/cgi-bin/webscr?cmd=_complaint-view"       >Escalate to a claim</a>
+            
+
+
+</div>
+        
+
+
+<div class=" span4 col-sm-4">
+           
+
+            
+
+            
+
+<h3 class="contentHead">We investigate and resolve the claim.</h3>
+            
+
+
+<p class="contentPara">To be able to make an informed decision, we may ask you for some supporting documents. We’ll refund you up to the full amount of the purchase and original shipping costs if the case has been decided in your favour.</p>
+            
+
+
+
+<a data-pa-click="panelThree|See all details" class="contentLink"  href="https://www.paypal.com/zm/webapps/mpp/ua/useragreement-full"        >See all details</a>
+            
+
+
+</div>
+        
+
+
+</div>
+</section>
+
+
+    
+
+</div>
+  
+<footer role="contentinfo" class="global-footer">
+    <div class="containerCentered containerExtend">
+        
+
+            
+<ul class="footer-main secondaryLink">
+                    
+<li><a href="https://www.paypal.com/zm/smarthelp/home">Help and Contact</a></li>
+                    
+<li><a href="https://www.paypal.com/zm/webapps/mpp/paypal-fees">Fees</a></li>
+                    
+<li><a href="https://www.paypal.com/zm/webapps/mpp/paypal-safety-and-security">Security</a></li>
+                    
+<li><a href="https://www.paypal.com/zm/webapps/mpp/about-paypal-products">Features</a></li>
+                    
+<li><a href="https://www.paypal.com/zm/webapps/mpp/pay-online">Shop</a></li>
+                    
+
+<li><a href='#' data-pa-click="footer|feedback" class="qualtricsFeedback">Feedback</a></li>
+                    
+
+                    
+<li class="country-selector ">
+      
+      
+
+<a
+            class="language"
+            data-pa-click="footer|country-selector"
+            href="?locale.x=en_ZM">
+              English
+</a>
+        
+<a
+            class="language"
+            data-pa-click="footer|country-selector"
+            href="?locale.x=es_ZM">
+              Español
+</a>
+        
+<a
+            class="language"
+            data-pa-click="footer|country-selector"
+            href="?locale.x=fr_ZM">
+              Français
+</a>
+        
+<a
+            class="language"
+            data-pa-click="footer|country-selector"
+            href="?locale.x=zh_ZM">
+              简体中文
+</a>
+        
+
+
+      
+
+<a
+              href="https://www.paypal.com/zm/webapps/mpp/country-worldwide"
+              data-pa-click="footer|country-selector"
+              title="See all countries/regions"
+              aria-label="See all countries/regions"
+              class="country ZM">
+                See all countries/regions
+</a>
+      		
+
+</li>
+
+
+</ul>
+                <hr>
+                <ul class="footer-secondary secondaryLink">
+                    
+
+<li><a href="https://www.paypal.com/zm/webapps/mpp/about">About</a></li>
+                        
+<li><a href="https://newsroom.paypal-corp.com/">Newsrooms</a></li>
+                        
+<li><a href="https://www.paypal.com/zm/webapps/mpp/jobs">Jobs</a></li>
+                        
+<li><a href="https://www.paypal.com/zm/webapps/mpp/full-sitemap">Sitemap</a></li>
+                        
+<li><a href="https://developer.paypal.com/">Developers</a></li>
+                        
+
+</ul>
+            
+
+<ul class="footer-tertiary copyright-section secondaryLink">
+            <li id="footer-copyright" class="footer-copyright">&copy; 1999&ndash;2021 All rights reserved.</li>
+
+            
+
+<li class="footer-accessibility"><a href="https://www.paypal.com/zm/webapps/mpp/accessibility" data-pa-click="footer|accessibility">Accessibility</a></li>
+                
+
+
+<li id="footer-privacy"><a href="https://www.paypal.com/zm/webapps/mpp/ua/privacy-full">Privacy</a></li>
+                
+
+
+<li class="footer-legal"><a href="https://www.paypal.com/zm/webapps/mpp/ua/legalhub-full">Legal</a></li>
+                    <li class="footer-legal"></li>
+                    <li class="footer-legal"></li>
+                
+
+
+
+</ul>
+        
+<p class="footer-notes">PayPal Pte. Ltd. (“3PL”) has applied for a license under the Singapore Payment Services Act (“PS Act”) with the Monetary Authority of Singapore. During this statutory transitional period, 3PL is operating under an exemption from holding a license and is allowed to continue to provide specific payment services.</p>
+        
+</div>
+</footer>
+
+
+</div>
+
+
+    
+<!--[if lte IE 9]>
+ <script src="https://www.paypalobjects.com/marketing-resources/js/b2/f34e53f94c2a6fb2a579294142f824ea64fad5.js"></script> 
+<![endif]-->
+
+
+
+<script  nonce="gXZVLV7e+GnaFVQdG4h14d18pdMchi0MoQKelPRRIwvX9EIe"  >
+    var PP_GLOBAL_JS_STRINGS = {
+        "CLOSE": "Close",
+        "TOGGLE_FULL_SCREEN": "Toggle Full Screen",
+        "NO_PLAY_VIDEO": "Your browser cannot play this video",
+        "CLICK_TO_PLAY": "Paused. Click to play.",
+        "PLAY": "Play",
+        "PAUSE": "Pause",
+        "PLAY_OR_PAUSE": "Play or Pause",
+        "MUTE": "Mute",
+        "SEEK_VIDEO": "Skip to another location in the video",
+        "REWIND": "" || "",
+        "RESTART": "" || "",
+        "FORWARD": "" || "",
+
+        "MESSAGE_REQUIRED": "This field is required",
+        "MESSAGE_REMOTE": "Please fix this field",
+        "MESSAGE_EMAIL": "Please enter a valid email address",
+        "MESSAGE_EMAIL_OR_PHONE": "Please enter a valid email address",
+        "MESSAGE_URL": "Please enter a valid URL",
+        "MESSAGE_DATE": "Please enter a valid date",
+        "MESSAGE_DATEISO": "Please enter a valid date (ISO)",
+        "MESSAGE_NUMBER": "Must be a number",
+        "MESSAGE_DIGITS": "Please enter only digits",
+        "MESSAGE_CREDITCARD": "Please enter a valid credit card number",
+        "MESSAGE_EQUALTO": "Your passwords don't match. Please retype your password to confirm it.",
+        "MESSAGE_ACCEPT": "Please enter a value with a valid extension",
+        "MESSAGE_MAXLENGTH": "Please enter no more than {0} characters",
+        "MESSAGE_MINLENGTH": "Please enter at least {0} characters",
+        "MESSAGE_RANGELENGTH": "Please enter a value between {0} and {1} characters long",
+        "MESSAGE_RANGE": "Please enter a value between {0} and {1}",
+        "MESSAGE_MAX": "Please enter a value less than or equal to {0}",
+        "MESSAGE_MIN": "Please enter a value greater than or equal to {0}",
+        "MESSAGE_BADPHONE": "We can't send money to that phone number. Please use an email address."
+    };
+
+    var HOLIDAYS = '';
+
+    var BROWSER_TYPE = 'Edge';
+</script>
+
+ 
+   <script src="https://www.paypalobjects.com/marketing-resources/js/ca/4c889762ab729bb7919a3362b4232e9fc29419.js"></script> 
+
+<script  nonce="gXZVLV7e+GnaFVQdG4h14d18pdMchi0MoQKelPRRIwvX9EIe" >
+  var feedbackLink = document.getElementsByClassName('qualtricsFeedback');
+  if (feedbackLink.length > 0) {
+    feedbackLink[0].onclick = function (e) {
+      e.preventDefault();
+      if (typeof PAYPAL !== 'undefined' && PAYPAL.analytics) {
+        PAYPAL.analytics.reloadQualtrics('mpp-footer-feedbacklink');
+      }
+    }
+  }
+</script>
+
+
+
+<script  nonce="gXZVLV7e+GnaFVQdG4h14d18pdMchi0MoQKelPRRIwvX9EIe" >
+        $(function(){
+           $('.he-new-window,#panelsblue .contentLink').attr('target','blank');
+       });
+    </script>
+
+
+
+    
+<script  nonce="gXZVLV7e+GnaFVQdG4h14d18pdMchi0MoQKelPRRIwvX9EIe"  >
+  
+  var dataLayer = {
+
+    
+    contentCountry: 'ZM'.toLowerCase(),
+
+    
+    contentLanguage: 'en'.toLowerCase(),
+
+    
+    localTimeZone: '',
+
+    
+    localTime: (new Date()).toString(),
+
+    
+    fptiGuid: '1719aef117a0a78874c5a345f686d798',
+
+    
+    gaCid: '',
+
+    
+    gaUid: ''
+  };
+</script>
+
+
+
+
+<script src="https://www.paypalobjects.com/pa/js/min/pa.js"></script>
+      <script  nonce="gXZVLV7e+GnaFVQdG4h14d18pdMchi0MoQKelPRRIwvX9EIe"  >
+         (function(){
+            var callFpti = function(fptiDataString) {
+              PAYPAL.core.pta = PAYPAL.analytics.setup({
+                data:fptiDataString,
+                trackCPL: true,
+                url:'https:\/\/t.paypal.com\/ts'
+              });
+          };
+          if(typeof PAYPAL.analytics !== "undefined") {
+            PAYPAL.core = PAYPAL.core || {};
+            var  fptiDataString = 'pgrp=main%3Amktg%3Apersonal%3A%3Abuyer-protection&page=main%3Amktg%3Apersonal%3A%3Abuyer-protection%3A%3A%3A&pgst=Unknown&calc=f328618060475&nsid=3PFH1ygKtJiXPeJCrwOEYRotC3OJqrKh&rsta=en_ZM&pgtf=Nodejs&env=live&s=ci&ccpg=zm&csci=c7a67cd3599547ef8410f0b34189d8e5&comp=mppnodeweb&tsrce=authchallengenodeweb&cu=1&gacook=695668202.1625689503&c_prefs=P%3D1%2CF%3D1%2Ctype%3Dimplicit&pgld=Unknown&bzsr=main&bchn=mktg&tmpl=buyer-protection.dust&pgsf=personal&lgin=out&shir=main_mktg_personal_&pros=1&lgcook=2&event_props=cu%2Clgin%2Cpage%2Cxe%2Cxt&user_props=cu%2Cxe%2Cxt&event_name=ppcom_page_viewed&page_segment=ppcom';
+            
+            if (typeof ga !== 'undefined' && ga !== null) {
+                ga(function(tracker) {
+                  var gaClientId = tracker.get('clientId');
+                  if (gaClientId) {
+                    fptiDataString += "&gacook=" + gaClientId;
+                  }
+                  callFpti(fptiDataString);
+                });
+            } else {
+                callFpti(fptiDataString);
+            }
+          }
+        }());
+      </script>
+      <noscript><img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Abuyer-protection&page=main%3Amktg%3Apersonal%3A%3Abuyer-protection%3A%3A%3A&pgst=Unknown&calc=f328618060475&nsid=3PFH1ygKtJiXPeJCrwOEYRotC3OJqrKh&rsta=en_ZM&pgtf=Nodejs&env=live&s=ci&ccpg=zm&csci=c7a67cd3599547ef8410f0b34189d8e5&comp=mppnodeweb&tsrce=authchallengenodeweb&cu=1&gacook=695668202.1625689503&c_prefs=P%3D1%2CF%3D1%2Ctype%3Dimplicit&pgld=Unknown&bzsr=main&bchn=mktg&tmpl=buyer-protection.dust&pgsf=personal&lgin=out&shir=main_mktg_personal_&pros=1&lgcook=2&event_props=cu%2Clgin%2Cpage%2Cxe%2Cxt&user_props=cu%2Cxe%2Cxt&event_name=ppcom_page_viewed&page_segment=ppcom" alt="" height="1" width="1" border="0"></noscript>
+
+
+
+
+
+
+<script  nonce="gXZVLV7e+GnaFVQdG4h14d18pdMchi0MoQKelPRRIwvX9EIe"  >
+    $(document).ready(function(){
+        if(window.console || "console" in window) {
+            console.log("%c WARNING!!!", "color:#FF8F1C; font-size:40px;");
+            console.log("%c This browser feature is for developers only. Please do not copy-paste any code or run any scripts here. It may cause your PayPal account to be compromised.", "color:#003087; font-size:12px;");
+            console.log("%c For more information, http://en.wikipedia.org/wiki/Self-XSS", "color:#003087; font-size:12px;");
+        }
+    });
+</script>
+
+
+
+<script src="https://www.paypalobjects.com/activation/js/marketingIntentsV2.js" defer></script>
+
+<script async defer src="/auth/createchallenge/3e3371fc7d50608c/recaptchav3.js?_sessionID=3PFH1ygKtJiXPeJCrwOEYRotC3OJqrKh"></script></body>
+</html>
+
+
+
